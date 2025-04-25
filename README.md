@@ -12,7 +12,7 @@ Hello again 👋
 + Comments, working code, and links to the latest official documentation are included every step of the way. There's links to open each notebook (_labeled 01...02_) in Google Colab - feel free to play around with the code.
 
 ## Milestones 🏁
-**Concepts covered in this exercise include:**  
+**Concepts covered in this project include:**  
 1. [x] Transfer learning
 2. [x] Training and evaluating a multi-class image classification model - built using [`PyTorch`](https://pytorch.org/)
 3. [x] Regularization using [Early stopping](https://www.linkedin.com/advice/1/what-benefits-drawbacks-early-stopping#:~:text=Early%20stopping%20is%20a%20form,to%20increase%20or%20stops%20improving.)
@@ -20,6 +20,7 @@ Hello again 👋
 5. [x] Data visualization
 
 ## Tools ⚒️
+**The tools used for this project are:** 
 1. [`Google Colab`](https://colab.google/) - A hosted _Jupyter Notebook_ service by Google.
 2. [`PyTorch`](https://pytorch.org/) -  An open-source machine learning (ML) framework based on the Python programming language that is used for building **Deep Learning models**
 3. [`scikit-learn`](https://scikit-learn.org/stable/#) - A free, open-source library that offers Machine Learning tools for the Python programming language
@@ -30,7 +31,10 @@ Hello again 👋
 8. [`torchinfo`](https://github.com/TylerYep/torchinfo) - A library for viewing model summaries in PyTorch
 9. [`PIL`](https://pillow.readthedocs.io/) - A Python library for image manipulation and basic image processing tasks
 10. [`kagglehub`](https://github.com/Kaggle/kagglehub) - A library that provides a simple way to interact with [Kaggle](https://www.kaggle.com/) resources such as datasets, models, notebook outputs in Python
-11. [`timm`](https://huggingface.co/docs/timm/en/index) - An open-source Python library that provides SOTA deep learning models for computer vision tasks
+11. [`timm`](https://huggingface.co/docs/timm/en/index) - An open-source Python library that provides SOTA deep learning models for computer vision tasks  
+
+> _Notable modules from [The Python Standard Library](https://docs.python.org/3/library/index.html) include [`itertools`](https://docs.python.org/3/library/itertools.html), [`shutil`](https://docs.python.org/3/library/shutil.html), [`zipfile`](https://docs.python.org/3/library/zipfile.html), [`pathlib`](https://docs.python.org/3/library/pathlib.html), and [`os`](https://docs.python.org/3/library/os.html)_
+
 
 ## Results 📈
 > On a scale of `0` -> `1`, the final best-performing model achieved:
@@ -42,7 +46,7 @@ Hello again 👋
 
 
 ## Reference 📚
-+ Thanks to the insight gained from [`Daniel Bourke`](https://x.com/mrdbourke?s=21&t=1Fg4dWHIo5p7EaMHhv2rng), [`Modern Computer Vision with Pytorch, 2nd Edition`](https://www.packtpub.com/en-us/product/modern-computer-vision-with-pytorch-9781803240930) and [`Rob Mulla`](https://www.youtube.com/watch?v=tHL5STNJKag)
++ Thanks to the insight gained from [`Daniel Bourke`](https://x.com/mrdbourke?s=21&t=1Fg4dWHIo5p7EaMHhv2rng), [`Modern Computer Vision with Pytorch, 2nd Edition`](https://www.packtpub.com/en-us/product/modern-computer-vision-with-pytorch-9781803240930) and [`Rob Mulla`](https://www.youtube.com/@robmulla)
 + Not forgetting these gorgeous gorgeous [`emojis`](https://gist.github.com/FlyteWizard/468c0a0a6c854ed5780a32deb73d457f) 😻
 
 > _Dataset by [kaggle](https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification)_ ♥  
